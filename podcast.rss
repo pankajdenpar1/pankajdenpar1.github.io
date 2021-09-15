@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>test</title>
+		<description>testsssss....</description>
+		<language>en</language>
+		<pubDate>Wed, 15 Sep 2021 14:06:47 +0300</pubDate>
+		<copyright>&#169; 2021 pankaj</copyright>
+		<itunes:author>pankaj</itunes:author>
+		<itunes:owner>
+				<itunes:name>pankaj</itunes:name>
+				<itunes:email>pankaj.denpar1@gmail.com</itunes:email>
+			</itunes:owner>
+		<itunes:image href="https://www.mysitemapgenerator.com/cover/9502_b7bf7d1b6986c667389146a97a591034.jpg?caption=test" />
+		<itunes:type>serial</itunes:type>
+		<itunes:category text="Education">
+			<itunes:category text="How To"/>
+			</itunes:category>
+		<itunes:explicit>false</itunes:explicit>
+<item>
+			<title>file_example_MP3_700KB</title>
+			<description>tsttttttttt</description>
+			<pubDate>Wed, 15 Sep 2021 00:00:00 +0300</pubDate>
+			<enclosure length="764176" type="audio/mpeg" url="https://www.mysitemapgenerator.com/cache/9502_1631703972000.mp3" />
+			<guid isPermaLink="false">3172375289</guid>
+			<itunes:duration>27.252</itunes:duration>
+			<itunes:order>1</itunes:order>
+</item>
+	</channel>
+</rss>
