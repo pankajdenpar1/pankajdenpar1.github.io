@@ -27,14 +27,6 @@
 			<itunes:duration>27.252</itunes:duration>
 			<itunes:order>1</itunes:order>
 </item>
-		<item>
-			<title>file_example_MP3_700KB</title>
-			<description>tsttttttttt22</description>
-			<pubDate>Wed, 15 Sep 2021 00:00:00 +0300</pubDate>
-			<enclosure length="764176" type="audio/mpeg" url="https://www.mysitemapgenerator.com/cache/9502_1631703972000.mp3" />
-			<guid isPermaLink="false">3172375289</guid>
-			<itunes:duration>27.252</itunes:duration>
-			<itunes:order>1</itunes:order>
-</item>
+	
 	</channel>
 </rss>
