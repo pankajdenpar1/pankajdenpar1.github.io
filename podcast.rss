@@ -29,6 +29,18 @@
 			<itunes:image href="https://pankajdenpar1.github.io/episode-cover.jpeg" />
 	
 </item>
+		
+<item>
+			<title>Episode 2</title>
+			<description>episode 2....</description>
+			<pubDate>Tue, 28 Sep 2021 00:00:00 +0300</pubDate>
+			<enclosure length="764176" type="audio/mpeg" url="https://www.mysitemapgenerator.com/cache/9502_1631703972000.mp3" />
+			<guid isPermaLink="false"></guid>
+			<itunes:duration>27.252</itunes:duration>
+			<itunes:order>2</itunes:order>
+			
+	
+</item>
 	
 	</channel>
 </rss>
