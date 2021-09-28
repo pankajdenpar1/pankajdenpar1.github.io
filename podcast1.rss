@@ -20,9 +20,9 @@
 		<itunes:explicit>false</itunes:explicit>
 <item>
 			<title>file_example_MP3_700KB</title>
-			<description>tsttttttttt.....</description>
+			<description>tsttttttttt_updated.....</description>
 			<pubDate>Wed, 15 Sep 2021 00:00:00 +0300</pubDate>
-			<enclosure length="764176" type="audio/mpeg" url="https://pankajdenpar1.github.io/9502.mp3" />
+			<enclosure length="764176" type="audio/mpeg" url="https://www.dupont.com/content/dam/dupont/amer/us/en/performance-building-solutions/public/multimedia/9502.mp3" />
 			<guid isPermaLink="false">3172375289</guid>
 			<itunes:duration>27.252</itunes:duration>
 			<itunes:order>1</itunes:order>
